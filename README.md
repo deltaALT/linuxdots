@@ -87,7 +87,7 @@ If you've done everything correctly, it should look like this:
 
 Let me know if you like it and suggest stuff that I should improve (You can suggest stuff in the issues tab).
 
-### Thanks/Credits
+## Thanks/Credits
 
 Thanks to:
 
