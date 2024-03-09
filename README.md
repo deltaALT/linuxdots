@@ -1,4 +1,3 @@
 # linuxdots
-Dotfiles for my Arch Linux install.
 > [!IMPORTANT]
-> W.I.P.
+> Check out my [new repo](https://github.com/deltaALT/hyprland-dots).
